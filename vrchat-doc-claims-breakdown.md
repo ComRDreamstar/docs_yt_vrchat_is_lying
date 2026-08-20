@@ -140,7 +140,7 @@ This is the largest category, and the crux of most criticism of the video:
 - **[51:09–51:21]** That the creator was never contacted by VRChat or its outside counsel during the Fusl investigation.
 - **[54:32–54:48]** The "witness testimonies and 4K screenshots" of Fusl that supposedly can't be defended — referenced but not produced.
 - **[55:35–55:42]** Screenshots that "definitively proved" Fusl ERPed as a child-avatar.
-- **[37:14–37:31]** The Discord image Tupper allegedly posted (shown censored).
+- **[37:14–37:31]** The Discord image Tupper allegedly posted (shown censored). **SELECTIVE QUOTATION VERIFIED.** see Tupper discord image quotation analysis.md
 - **[53:38–53:56]** Fusl's Steam library of loli games with full achievement completion.
 - **[16:50–17:05]**, **[17:26–17:50]**, **[30:37–31:01]** Operation Mithras: 25 members, 60 days of dead ends, artist-produced trust-building artwork.
 
