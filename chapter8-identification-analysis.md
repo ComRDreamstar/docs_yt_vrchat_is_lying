@@ -11,7 +11,7 @@ That structural point holds regardless of who is right.
 | Segment | Timestamps | Depends on the ID? |
 |---|---|---|
 | Rebuttal analysis (internal investigation, outside counsel, Matrix device count, Steam achievements, "never denounces," Ruikawa, deleted tweets) | 50:28–56:27 | **No** — stands or falls on its own |
-| "They found you, Fusil" + the recorded persona | 56:35–1:00:24 | **Yes** — collapses entirely if the ID is wrong |
+| "They found you, Fusl" + the recorded persona | 56:35–1:00:24 | **Yes** — collapses entirely if the ID is wrong |
 
 This matters for how you present findings. A failed identification does not retroactively resolve the Matrix screenshot or the GitHub rebuttal critique. Conversely, the rebuttal critique being sound does not lend any support to the identification. They're independent, and the video's edit implies otherwise by placing them back to back.
 
@@ -33,13 +33,13 @@ Every element the video offers, in order:
 
 Items 4, 5 and 6 all come from a single sentence spoken by the subject. The video takes a list the person offered as an explanation and re-presents it as a set of independent matches.
 
-## 3. The subject discusses Fusil in the third person — at length, and sympathetically
+## 3. The subject discusses Fusl in the third person — at length, and sympathetically
 
 **[57:49–58:21]** The speaker describes "a bearded staff member who's been unfortunately like dragged into public drama with like a ton of false evidence about her," says "she's an amazing person," that "she didn't got fired or anything, she still works at VRChat," that "her mental health is a bit in shambles," and — critically — **"I really can't tell you where she hangs out for her safety."**
 
 That last line is someone protecting a third party's location. It is a strange thing to say about yourself.
 
-**[58:21–58:29]** The interviewer then asks directly: *"How did you and like other Fusil met — was it before the big drama or after?"* The question presupposes two people. The answer is **"Uh, I can't comment on this."**
+**[58:21–58:29]** The interviewer then asks directly: *"How did you and like other Fusl met — was it before the big drama or after?"* The question presupposes two people. The answer is **"Uh, I can't comment on this."**
 
 **[58:48–58:57]** The speaker says they wish they could "just walk up to her" and ask her about it directly, and that she "would run to me for two hours about it."
 
@@ -51,7 +51,7 @@ The video presents none of this as complicating the thesis.
 
 The subject denies it on camera, in the footage the video uses to prove it. The denial is not addressed.
 
-Separately, at **57:33–57:41** the video's framing is that Fusil "adopted a new personality, implementing a voice changer alongside a slight name change." A *slight* name change is a poor concealment strategy and a perfectly ordinary fact about two similarly-named accounts existing. The very next line — **[57:41–57:49]** *"wait a minute, [I've heard that] name before. Are you like a streamer? Like a VTuber?"* — suggests the account had its own established public presence, which is what you'd expect of a distinct person and not of a fresh alt built to hide.
+Separately, at **57:33–57:41** the video's framing is that Fusl "adopted a new personality, implementing a voice changer alongside a slight name change." A *slight* name change is a poor concealment strategy and a perfectly ordinary fact about two similarly-named accounts existing. The very next line — **[57:41–57:49]** *"wait a minute, [I've heard that] name before. Are you like a streamer? Like a VTuber?"* — suggests the account had its own established public presence, which is what you'd expect of a distinct person and not of a fresh alt built to hide.
 
 ## 5. The gender-identity element
 
@@ -69,7 +69,7 @@ If the subject is a third party who has just realised a documentarian believes t
 
 ## 7. The privacy complaint
 
-**[59:42–1:00:05]** A privacy complaint followed and succeeded where earlier attempts failed. The video attributes it to Fusil.
+**[59:42–1:00:05]** A privacy complaint followed and succeeded where earlier attempts failed. The video attributes it to Fusl.
 
 Worth noting: a successful privacy complaint requires the complainant to be identifiable in the content. If a third party had just been depicted and effectively named in a video, they would have standing to file one — and a *first-time* complaint from a *new* complainant is a plausible reason one would succeed where prior ones failed. The video treats the success as further confirmation; it's equally consistent with the opposite.
 
@@ -92,6 +92,6 @@ If the community concludes the ID was wrong, the finding is *"the video's eviden
 
 The identification rests on nine items. Two are non-discriminating (voice changer, DevOps), three come from a single sentence the subject volunteered as an explanation of coincidence, one is asserted but never shown (speech patterns), and two are behaviours (leaving the lobby, the privacy complaint) that fit the alternative reading at least as well.
 
-Against that, the same footage contains a sustained third-person account of Fusil as a separate person under active protection, an interviewer question that presupposes two people met, and an explicit on-camera denial — none of which the chapter addresses.
+Against that, the same footage contains a sustained third-person account of Fusl as a separate person under active protection, an interviewer question that presupposes two people met, and an explicit on-camera denial — none of which the chapter addresses.
 
 Whether or not the "FuzlTM" claim is correct, the chapter does not carry its burden on the material it shows.
