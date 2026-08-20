@@ -25,11 +25,24 @@ Sorted by *epistemic status* rather than by chapter, since that's what's actuall
 
 These don't depend on Satori or on unreleased footage:
 
-- **[7:39–7:56]** Sitbox is/was a moderator in the VRChat Discord (stated as 100,000+ members) and produced widely-used avatar upload tutorials.
-- **[8:39–9:11]** VRChat published a public statement on **June 23, 2024** suspending Sitbox pending internal investigation, and committing to age verification "within the year."
-- **[9:17–9:48]** VRChat published a follow-up on **June 27, 2024** offering reinstatement to Sitbox and "FPOL," stating no evidence of harmful activity was found, citing the age of the evidence, and **[9:55–10:09]** accusing the creator of doxxing and blackmail.
+- **[7:39–7:56]** Sippbox is/was a moderator in the VRChat Discord (stated as 100,000+ members) and produced widely-used avatar upload tutorials. 
+` https://www.youtube.com/watch?v=bSwMz4WcajQ
+` https://nitter.net/WheelieB1337/status/1804682967580549623#m (picture of vrchat announcement)
+confirmed.
+
+- **[8:39–9:11]** VRChat published a public statement on **June 23, 2024** suspending Sippbox pending internal investigation, and committing to age verification "within the year."
+` https://www.reddit.com/r/VRchat/comments/1dmaktv/vrchat_is_planning_to_add_age_verification_using/ (another picture with the full announcement)
+Confirmed.
+
+- **[9:17–9:48]** VRChat published a follow-up on **June 27, 2024** offering reinstatement to Sippbox and "FPAUL," stating no evidence of harmful activity was found, citing the age of the evidence, and **[9:55–10:09]** accusing the creator of doxxing and blackmail.
+` missing evidence.
+Add: Gemini mention the following:
+The idea that they were offered reinstatement based on the "age of the evidence" is incorrect. Both Sippbox and FPAUL remained permanently removed from their roles following the public backlash and investigations.
+Add: Claude:
+Not located: Neither the June 23 nor the June 27, 2024 VRChat statement could be found via web search (VRChat blog, Ask forum, X, Reddit, Steam, general search — searched under both the caption spellings and the correct ones, Sippbox/FPaul); likely posted in the VRChat Discord announcements channel, which is not indexed — needs a server member or archive to confirm.
+
 - **[10:41–10:49]** VRChat later **edited** that statement, changing "6 years" to "several years."
-- **[10:09–10:18]** Sitbox publicly responded claiming the ERP sessions occurred when he was a minor.
+- **[10:09–10:18]** Sippbox publicly responded claiming the ERP sessions occurred when he was a minor.
 - **[10:26–10:41]** VRChat's group-banner-above-nametag UI feature dates to **November 2022**.
 - **[49:55–50:28]** The creator published *Exposing a VRChat Developer* on **October 24, 2025**; Fusil published a ~6,300-word GitHub rebuttal titled "Addressing the Allegations."
 - **[59:42–60:05]** That video was later removed from YouTube following a privacy complaint.
@@ -46,8 +59,8 @@ These don't depend on Satori or on unreleased footage:
 This is the largest category, and the crux of most criticism of the video:
 
 - **[0:06–0:18]** The opening clip of **Sai**, a VRChat employee, receiving a nude lap dance at a club "he has been running in secrecy" — shown fully censored.
-- **[11:46–11:53]** The Sitbox clip in which he ERPs with a user whose avatar "looks no older than [a child]" — explicitly never shown anywhere, in any form **[12:01–12:12]**.
-- **[8:04–8:30]** That Sitbox uploaded custom loli avatars with functioning genitalia and used them for ERP (the 2024 findings).
+- **[11:46–11:53]** The Sippbox clip in which he ERPs with a user whose avatar "looks no older than [a child]" — explicitly never shown anywhere, in any form **[12:01–12:12]**.
+- **[8:04–8:30]** That Sippbox uploaded custom loli avatars with functioning genitalia and used them for ERP (the 2024 findings).
 - **[0:19–0:34]**, **[47:03]** That a report was filed on Sai and produced "zero consequences."
 - **[26:38–27:02]** That Azil was reported and faced no repercussions.
 - **[26:24–26:38]** That Tizzy was consulted on Azil's statement, and that it took 21+ days to produce.
@@ -91,7 +104,7 @@ Credit where due — the video does label some of this:
 ## 5. Speculation or inference presented with the confidence of fact
 
 - **[42:55–43:23] The Metcalfe's law argument.** "VRChat is not evaluated on profit but on user count" is stated flatly with no source, then used to conclude Tupper is "financially incentivized" to keep minors on the platform **[44:07–44:22]**. Unvested options in a private company do create *some* growth incentive — but the specific chain (valuation method → user count → children specifically) is constructed, not evidenced.
-- **[10:18–10:41] The Sitbox age rebuttal.** The November 2022 UI detail dates the *screenshot*. It does not establish Sitbox's age, because the video never establishes his date of birth. The conclusion "it was impossible Sitbox was a minor" doesn't follow from the premise given on screen.
+- **[10:18–10:41] The Sippbox age rebuttal.** The November 2022 UI detail dates the *screenshot*. It does not establish Sippbox's age, because the video never establishes his date of birth. The conclusion "it was impossible Sippbox was a minor" doesn't follow from the premise given on screen.
 - **[10:49–11:06] "The only logical conclusion is that VRChat is okay with loli content."** A conclusion about corporate intent drawn from one badly-handled investigation.
 - **[58:59–59:22] The Fusil persona identification.** The match (DevOps role, name, avatar type, gender identity, speech patterns) is genuinely suggestive circumstantial evidence, but it is circumstantial, and it's presented as effectively confirmed. Note also that this segment publicly discusses a private individual's gender identity as an identifying data point.
 - **[59:28–59:42] Fusil leaving the lobby** treated as consciousness of guilt — equally consistent with not wanting to speak to someone who made a video about you.
@@ -143,9 +156,9 @@ Ordered by how much the video's thesis depends on them versus how checkable they
 
 | # | Claim | Timestamp | How to check |
 |---|---|---|---|
-| 1 | Sitbox's actual age / DOB vs. Nov-2022 UI dating | 10:18–10:41 | Public footprint; the video's logic fails without it |
+| 1 | Sippbox's actual age / DOB vs. Nov-2022 UI dating | 10:18–10:41 | Public footprint; the video's logic fails without it |
 | 2 | Wording of both VRChat statements + the edit | 8:39–10:57 | Wayback / archive diffs |
-| 3 | Whether Sitbox is still a Discord moderator | 11:14–11:30 | Directly observable now |
+| 3 | Whether Sippbox is still a Discord moderator | 11:14–11:30 | Directly observable now |
 | 4 | Whether Azil's account is still active | 26:46–27:02 | Directly observable now |
 | 5 | Dev accounts in the "Boat" group | 18:58–19:13 | Public profile group lists |
 | 6 | ToS §13.2D and §8.4C text vs. described conduct | 12:12–12:22 | Public ToS |
