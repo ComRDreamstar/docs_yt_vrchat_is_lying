@@ -8,6 +8,8 @@
 
 ## The dispositive item
 
+https://www.youtube.com/watch?v=PtxWU7Ul-_k
+
 **Video showing both accounts present and talking to each other.** Two parties cannot be one person in a recorded conversation between them.
 
 This is precisely the test set out in §8 of the main analysis ("Concurrent presence — any instance, log, or recording placing both accounts online at the same time. This is dispositive and the community can check it"). The criterion was specified before the evidence surfaced, and it has now been met. That ordering matters: it wasn't a standard adjusted to fit a result.
