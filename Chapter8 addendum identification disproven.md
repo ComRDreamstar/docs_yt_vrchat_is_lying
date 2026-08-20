@@ -33,7 +33,7 @@ Lead with the concurrent video. Use the accent as support, never as the primary 
 
 **Establishes:**
 - FuzlTM and Fusl are different people
-- The Chapter 8 identification — and the on-screen "They found you, Fusil" at **[56:35]** — is wrong
+- The Chapter 8 identification — and the on-screen "They found you, Fusl" at **[56:35]** — is wrong
 - A third party was publicly presented, before a large audience, as someone they are not, with their job, avatar preferences, and gender identity offered as corroborating evidence
 
 **Does not establish anything about:**
@@ -48,7 +48,7 @@ Keep these separate. A failed identification does not resolve the other question
 Worth restating, because it means this was findable without any new evidence:
 
 - **[57:49–58:21]** The speaker discusses Fusl in the third person for roughly thirty seconds, sympathetically, including *"I really can't tell you where she hangs out for her safety"* — protecting a third party's location
-- **[58:21–58:29]** The interviewer asks how *"you and other Fusil"* met, a question presupposing two people; the answer is *"I can't comment on this"*
+- **[58:21–58:29]** The interviewer asks how *"you and other Fusl"* met, a question presupposing two people; the answer is *"I can't comment on this"*
 - **[58:59]** The speaker says *"I'm not Fus—"* outright
 - **[58:59–59:12]** The speaker volunteers the resemblance (shared name, avatar type) as coincidence — the video re-presents this single sentence as multiple independent matches
 
