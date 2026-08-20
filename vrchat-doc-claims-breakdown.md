@@ -26,16 +26,19 @@ Sorted by *epistemic status* rather than by chapter, since that's what's actuall
 These don't depend on Satori or on unreleased footage:
 
 - **[7:39–7:56]** Sippbox is/was a moderator in the VRChat Discord (stated as 100,000+ members) and produced widely-used avatar upload tutorials. 
-` https://www.youtube.com/watch?v=bSwMz4WcajQ
-` https://nitter.net/WheelieB1337/status/1804682967580549623#m (picture of vrchat announcement)
+
+https://www.youtube.com/watch?v=bSwMz4WcajQ
+https://nitter.net/WheelieB1337/status/1804682967580549623#m (picture of vrchat announcement)
 confirmed.
 
 - **[8:39–9:11]** VRChat published a public statement on **June 23, 2024** suspending Sippbox pending internal investigation, and committing to age verification "within the year."
-` https://www.reddit.com/r/VRchat/comments/1dmaktv/vrchat_is_planning_to_add_age_verification_using/ (another picture with the full announcement)
+
+https://www.reddit.com/r/VRchat/comments/1dmaktv/vrchat_is_planning_to_add_age_verification_using/ (another picture with the full announcement)
 Confirmed.
 
 - **[9:17–9:48]** VRChat published a follow-up on **June 27, 2024** offering reinstatement to Sippbox and "FPAUL," stating no evidence of harmful activity was found, citing the age of the evidence, and **[9:55–10:09]** accusing the creator of doxxing and blackmail.
-` missing evidence.
+
+missing evidence.
 Add: Gemini mention the following:
 The idea that they were offered reinstatement based on the "age of the evidence" is incorrect. Both Sippbox and FPAUL remained permanently removed from their roles following the public backlash and investigations.
 Add: Claude:
